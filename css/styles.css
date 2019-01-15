@@ -1,9 +1,18 @@
 .me {
+  margin; 12px;
+  border: 2px solid green;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
   color: blue;
 }
 
 .daily {
   color: red;
+  border: 2px solid green;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
 }
 
 .highlight {
