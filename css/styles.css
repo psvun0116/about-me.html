@@ -1,0 +1,15 @@
+.me {
+  color: blue;
+}
+
+.daily {
+  color: red;
+}
+
+.highlight {
+  font-style: italic;
+}
+
+.outdoor-type {
+  font-style: oblique;
+}
